@@ -65,10 +65,11 @@ pengeluaran         — Catatan pengeluaran toko
 
 ## 👤 Author
 
-Dibuat sebagai **Tugas Akhir Intermediate Programming** — *[Grace L.R. Pangaribuan dan Gloriana Monica]*
+Dibuat sebagai **Tugas Akhir Mata Kuliah Intermediate Programming** — *[Grace L.R. Pangaribuan dan Gloriana Monica]*
 
 ---
 
-## 📄 Lisensi
+Tampilan:
 
-Proyek ini dibuat untuk keperluan akademik.
+<img width="742" height="471" alt="image" src="https://github.com/user-attachments/assets/49e828d9-8acd-44b5-804c-b10d989573dd" />
+
